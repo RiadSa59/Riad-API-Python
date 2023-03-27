@@ -17,7 +17,7 @@ Ce projet est une implémentation Python pour interagir avec l'API de partage de
 
 ```bash
 
-git clone https://github.com/RiadSa59/Riad-SABIR-API-Python
+git clone https://github.com/RiadSa59/Riad-API-Python
 
 python3 -m venv venv ## Optionnel 1 
 
